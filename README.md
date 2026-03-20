@@ -1,4 +1,4 @@
-SmartShield – Income Protection for Delivery Partners
+AI-Powered Insurance for India’s Gig Economy – Income Protection for Delivery Partners
 
 About the Project
 In today’s fast-growing gig economy, delivery partners (like Swiggy, Zomato, Zepto workers) play a very important role. But one major issue they face is **loss of income due to external factors** like heavy rain, pollution, or sudden curfews.
