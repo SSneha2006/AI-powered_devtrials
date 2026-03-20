@@ -76,3 +76,30 @@ In the next phases, we plan to:
 * Add automated claims and payouts
 * Create dashboard for users and admin
 * Improve AI models
+
+## Frontend Overview
+
+We have designed a simple and user-friendly web interface for delivery partners to interact with the system.
+
+### Key Features of Frontend:
+- User Registration Form (Name, Location, Platform)
+- Weekly Premium Display based on user details
+- Simulation of external triggers (Rain, Pollution)
+- Automatic claim status updates
+- Clean and simple UI for easy usage
+
+### Screens Included:
+1. Registration Page – User enters details  
+2. Premium Display Section – Shows calculated weekly premium  
+3. Trigger Simulation – Buttons to simulate rain/pollution events  
+4. Status Section – Displays claim and payout information  
+
+### Technologies Used:
+- HTML for structure  
+- CSS for styling  
+- JavaScript for dynamic behavior  
+
+### How to Run Frontend:
+1. Download the project files  
+2. Open `index.html` in any web browser  
+3. Interact with the form and buttons  
